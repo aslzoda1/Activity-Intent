@@ -21,6 +21,7 @@ startActivity(intent)
 
 <b>📡 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝑳𝒊𝒇𝒆𝒄𝒚𝒄𝒍𝒆 𝑳𝒐𝒈𝒔 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒆𝒅</b></td></tr></table></div>
 👩‍💻 𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕Aslzoda Bozorboyeva — Android Developer."Code is not just logic, it's an educational story." ✨
+![Uploading image.png…]()
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
